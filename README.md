@@ -37,7 +37,7 @@ printf %.3f 5.55555
 5.556
 ```
 
-As you see it use rounded number so the last decimale is 6.
+As you see it make rounded number so the last decimale is 6.
 
 Then here is a couple of examples that prints out with spaces or zeros so the output fit 5 digits (include .):
 
