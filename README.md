@@ -1,4 +1,4 @@
-#Integer and float examples using printf
+# Integer and float examples using printf
 It's not always easy to remember how to use printf with integers (%i) and floats (%f)
 
 Here is some examples to clear up your mind
