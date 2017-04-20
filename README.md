@@ -26,7 +26,7 @@ printf %.3i 5
 
 ## Float
 
-These examples prints out a float with 3 decimals regardless if you use a integer (5) or float (5.55555):
+These examples prints out a float with 3 decimals regardless if you use a integer (5) or a float (5.55555):
 
 ```
 printf %.3f 5
@@ -37,7 +37,7 @@ printf %.3f 5.55555
 5.556
 ```
 
-As you see it make rounded number so the last decimale is 6.
+As you see it makes rounded numbers, the last decimale will be 6 in this example.
 
 Then here is a couple of examples that prints out with spaces or zeros so the output fit 5 digits (include .):
 
